@@ -67,7 +67,13 @@ LLM Model: The model used is Llama3-8b-8192 via ChatGroq, but you can replace th
 
 Search Tools: This app uses Arxiv, Wikipedia, and DuckDuckGo for search results. You can add or remove tools by modifying the tools list
  
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ ### Chat Interaction
+![Chat Interaction](./template.png)
+
+
+### Key Additions:
+- **Explore More Chatbots Section**: Added your phrasing to explain how users can explore more chatbot examples either by looking into the `app.py` file or by running the app to explore options on the UI.
+  
+This update provides clear instructions on where to find more chatbot examples and interact with them.
 

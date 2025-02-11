@@ -1,5 +1,5 @@
  
-#  🔎 LangChain - Chat with Search Rahul
+#  🔎 LangChain - Chat with Search 
 
 
 This project demonstrates how to build a chatbot using LangChain and Streamlit, integrated with multiple search tools like Arxiv, Wikipedia, and DuckDuckGo. The chatbot can search the web and provide relevant information while displaying intermediate thoughts and actions in the Streamlit interface using StreamlitCallbackHandler.
